@@ -56,4 +56,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'pry-rails'
 gem 'dotenv-rails', require: 'dotenv/rails-now'
 
-gem 'splitclient-rb', '~> 4'
+gem 'splitclient-rb', '~> 4.3.2'
